@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pranit Rout</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">AWS || DevOps || Kubernetes</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranitrout07&label=Profile%20views&color=0e75b6&style=flat" alt="pranitrout07" /> </p>
 
@@ -26,4 +26,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranitrout07&" alt="pranitrout07" /></p>
 <H1>Hacktoberfest 2023</H1>
-[![An image of @pranitrout07's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pranitrout07)](https://holopin.io/@pranitrout07)
+<img src="https://holopin.me/pranitrout07"/>
+
