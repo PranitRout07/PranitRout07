@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/pranit-rout-249349204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/pranit-rout-249349204" height="30" width="40" /></a>
+<a href="Pranit Rout" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/pranit-rout-249349204" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/pranitrout72/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="pranitrout72/profile" height="30" width="40" /></a>
 </p>
 
@@ -26,4 +26,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranitrout07&" alt="pranitrout07" /></p>
 <H1>Hacktoberfest 2023</H1>
-[![An image of @pranitrout07's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pranitrout07)](https://holopin.io/@pranitrout07)
+<a href="https://holopin.io/@pranitrout07">
