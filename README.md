@@ -26,4 +26,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranitrout07&" alt="pranitrout07" /></p>
 <H1>Hacktoberfest 2023</H1>
-<a href="[![An image of @pranitrout07's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pranitrout07)](https://holopin.io/@pranitrout07)">
+[![An image of @pranitrout07's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pranitrout07)](https://holopin.io/@pranitrout07)
