@@ -1,5 +1,5 @@
 <img src="https://komarev.com/ghpvc/?username=pranitrout07&label=Profile%20views&color=0e75b6&style=flat" alt="pranitrout07" />
-<h2 align="left">Hi there! 👋 I'm Pranit Rout, a passionate DevOps engineer from India.</h2>
+<h2 align="left">Hi there! 👋 I'm Pranit Rout, a tech enthusiast skilled in AWS, Kubernetes, and DevOps. I share my knowledge through articles on GeeksforGeeks. 🚀✨</h2>
 
 <div align="center">
   <img align="right" height="150" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" />
