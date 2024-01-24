@@ -35,7 +35,7 @@
 
 ### Profile Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pranitrout07&show_icons=true&locale=en" alt="pranitrout07" />
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranitrout07" alt="pranitrout07" />
   
 </p>
